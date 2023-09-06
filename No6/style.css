@@ -1,0 +1,30 @@
+.box {
+  background-color: rgba(0,0,0,0);
+  border: 1px solid rgba(0,0,0,1);
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.red {
+  background-color: red;
+  color: white;
+}
+
+.blue {
+  background-color: blue;
+  color: white;
+}
+
+.yellow {
+  background-color: yellow;
+  color: white;
+}
+
+
+
+
+
