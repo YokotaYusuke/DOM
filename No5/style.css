@@ -1,0 +1,33 @@
+.box {
+  width: 200px;
+  height: 200px;
+  border: 1px solid rgba(0,0,0,1);
+  background-color: rgba(0,0,0,0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#text-label {
+  margin-bottom: 10px;
+}
+
+.redBox {
+  background-color: red;
+  color: white;
+}
+
+.blueBox {
+  background-color: blue;
+  color: white;
+}
+
+.greenBox {
+  background-color: green;
+  color: white;
+}
