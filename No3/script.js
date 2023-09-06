@@ -16,11 +16,11 @@ btn1.addEventListener("click", function() {
 })
 
 btn2.addEventListener("click", function() {
-  changeNum(1);
+  changeNum(-1);
 })
 
 btn3.addEventListener("click", function() {
-  changeNum(-1);
+  changeNum(1);
 })
 
 
